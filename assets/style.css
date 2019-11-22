@@ -29,7 +29,7 @@ body {
 
 .clock {
     font-size: 200px;
-    background: url("bg1.jpeg");
+    background: url("bg4.jpeg");
     background-attachment: fixed;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
@@ -40,8 +40,7 @@ body {
 .date,
 .day {
     color: rgb(145, 183, 255);
-    font-size: 25px;
-    font-weight: bolder;
+    font-size: 20px;
     text-align: right;
 }
 
@@ -64,7 +63,7 @@ body {
     background: transparent;
     color: white;
     width: 100%;
-    padding: 15px 30px;
+    padding: 15px 70px;
     font-size: 17px;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
