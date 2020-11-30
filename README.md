@@ -1,6 +1,6 @@
 # NewTab
 ## Download
-Get Extension: <a href="https://github.com/aritra1999/NewTab/blob/master/downalod/NewTab.zip" download="NewTab">Download</a>
+Get Extension: <a href="https://github.com/aritra1999/NewTab/raw/master/downalod/NewTab.zip" download="NewTab">Download</a>
 
 ## Add It To Chrome: 
   1. Extarct `NewTab.zip`.
